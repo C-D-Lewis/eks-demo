@@ -5,6 +5,7 @@ CLI.
 
 Total resources: ~55, including managed IAM, KMS, ASG, and associated policies.
 
+- [ ] S3 backend
 
 ## Required
 
